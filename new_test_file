@@ -1,0 +1,6 @@
+If 1 {
+System.out.println("OK");
+}
+esle{
+System.out.println("FALSE");
+}
