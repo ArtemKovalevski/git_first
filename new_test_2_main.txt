@@ -1,0 +1,2 @@
+hello
+i have just made a note in a new file with GitHub interface
